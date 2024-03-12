@@ -1,0 +1,111 @@
+<mjml>
+  <mj-body>
+    <mj-raw>
+      <!-- Company Header -->
+    </mj-raw>
+    <mj-section background-color="#2e4f6a">
+      <mj-column>
+        <mj-text font-style="italic" font-size="20px" color="#fff"
+          >Jay's Auto Spa</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Image Header -->
+    </mj-raw>
+    <mj-section
+      background-url="https://images.unsplash.com/photo-1550564956-8f914edc0477?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1170"
+      background-size="cover"
+      background-repeat="no-repeat"
+    >
+      <mj-column width="600px">
+        <mj-text
+          align="center"
+          color="#ccb686"
+          font-size="40px"
+          font-family="Helvetica Neue"
+          >Detail Done Right</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Intro text -->
+    </mj-raw>
+    <mj-section background-color="#f0f0ff">
+      <mj-column width="400px">
+        <mj-text
+          font-style="italic"
+          font-size="20px"
+          font-family="Helvetica Neue"
+          color="#ccb686"
+          >Order Confirmed</mj-text
+        >
+        <mj-text color="#525252">Date: </mj-text>
+        <mj-text color="#525252">Vehicle: </mj-text>
+        <mj-text color="#525252">Package: </mj-text>
+        <mj-text color="#525252">Add-Ons: </mj-text>
+        <mj-button background-color="#f0f0ff" color="#39db98" href="#"
+          >$</mj-button
+        >
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Side image -->
+    </mj-raw>
+    <mj-section background-color="#2e4f6a">
+      <mj-raw>
+        <!-- Left image -->
+      </mj-raw>
+      <mj-column>
+        <mj-image
+          width="200px"
+          src="https://images.unsplash.com/photo-1589750602846-60028879da9b?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=987"
+        ></mj-image>
+      </mj-column>
+      <mj-raw>
+        <!-- right paragraph -->
+      </mj-raw>
+      <mj-column>
+        <mj-text
+          font-style="italic"
+          font-size="20px"
+          font-family="Helvetica Neue"
+          color="#ccb686"
+          >Important Information</mj-text
+        >
+        <mj-text color="#ccb686"
+          >If any interior package is selected, please do remove as much
+          personal items from the cabin. This enables our professionals to work
+          better with less obstructions to worry about.</mj-text
+        >
+        <mj-text color="#ccb686"
+          >For any questions, comments, or concerns, please do email us at
+          jaysAutoSpa@gmail.com or call us at 987-657-3344.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Icons -->
+    </mj-raw>
+    <mj-section background-color="#f0f0ff">
+      <mj-column>
+        <mj-image
+          width="100px"
+          src="http://191n.mj.am/img/191n/3s/x0l.png"
+        ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image
+          width="100px"
+          src="http://191n.mj.am/img/191n/3s/x01.png"
+        ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image
+          width="100px"
+          src="http://191n.mj.am/img/191n/3s/x0s.png"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
